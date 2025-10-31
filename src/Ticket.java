@@ -132,6 +132,7 @@ class TiketKonserSesudah extends Ticket implements Operational {
         System.out.println("Jenis Tiket: " + jenisTiket);
         System.out.println("Jumlah Tiket: " + jumlah);
         System.out.println("Total (termasuk pajak): Rp" + total);
+        System.out.println();
     }
 
     /**
